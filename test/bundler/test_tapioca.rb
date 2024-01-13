@@ -2,7 +2,7 @@
 
 require "test_helper"
 
-class Bundle::TestTapioca < Minitest::Test
+class Bundler::TestTapioca < Minitest::Test
   def test_that_it_has_a_version_number
     refute_nil ::Bundler::Tapioca::VERSION
   end
