@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/bundle/tapioca/version"
+require_relative "lib/bundler/tapioca/version"
 
 Gem::Specification.new do |spec|
   spec.name = "bundle-tapioca"
