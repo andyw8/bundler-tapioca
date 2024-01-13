@@ -3,7 +3,7 @@
 require_relative "lib/bundler/tapioca/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "bundle-tapioca"
+  spec.name = "bundler-tapioca"
   spec.version = Bundle::Tapioca::VERSION
   spec.authors = ["Andy Waite"]
   spec.email = ["andyw8@users.noreply.github.com"]
